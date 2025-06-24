@@ -1,0 +1,11 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+*.tfvars
+crash.log
+
+# System files
+Thumbs.db
+Desktop.ini
