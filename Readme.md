@@ -10,9 +10,7 @@ A Terraform module that deploys a highly available, auto-scaling web infrastruct
 - ⚖️ **Auto Scaling Group (ASG)** - Automatically scales EC2 instances
 - 🛡️ **Security Best Practices** - Network isolation and least-privilege access
 
-## Architecture Overview
 
-![Architecture Diagram](https://user-images.githubusercontent.com/12345678/123456789-abc12345-67890d.png)
 
 ## Features
 
